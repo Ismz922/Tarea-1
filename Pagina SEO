@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paginas SEO</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>Paginas SEO</header>
+    <main>
+        <section>
+            <article>
+                <h2>¿Qué es SEO?</h2>
+                <p>SEO consiste en una serie de estrategias las cuales son aplicadas en paginas web para mejorar su
+                    posicionamiento en los buscadores de manera orgánica lo que significa que no hay pago</p>
+
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>¿Cómo hacer una web optimizada para SEO?</h2>
+                <p>Entre algunas cosas basicas que la pagina web debe tener para estar optimizada en SEO estan: </p>
+                <ul>
+                    <li>Crear una buena estructura de urls que contengan tu palabra clave</li>
+                    <li>Redactar descripciones con la palabra clave con texto atractivo para convertir</li>
+                    <li>El contenido: original, natural y con las palabras clave en títulos y texto</li>
+                    <li>Tener los Títulos optimizados</li>
+                    <li>Enlaces: escribir palabras clave en el «anchor text»</li>
+                    <li>Darte de alta en Search Console</li>
+                </ul>
+                <p>Tambien se puede recurrir a herramientas para optimizar como:</p>
+                <ul>
+                    <li>Plugins: Yoas SEO o Rank Math</li>
+                    <li>Palabras clave: Ubersuggest, extensión de Chrome Keyword Surfer</li>
+                    <li>Optimizar imágenes: imagecompressor</li>
+                </ul>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Meta etiquetas</h2>
+                <h1>¿Qué son?</h1>
+<p>Son comandos en HTML que describen el contenido de una página para los buscadores, es decir, proporcionan datos como el título o un breve resumen sobre el tema para programas externos</p>
+            </article>
+        </section>
+        <table>
+            <caption><h1>Meta etiquetas mas importantes</h1></caption>
+            <tr>
+                <th>Etiqueta</th>
+                <th>¿Para que sirve?</th>
+
+            </tr>
+            <tr>
+                <td>Title</td>
+                <td>Contiene el título de la página web y es visible en los rankings de resultados de los buscadores
+                    como Google</td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td>Al igual que el título, el contenido de esta etiqueta se muestra también en los resultados de
+                    búsqueda</td>
+            </tr>
+            <tr>
+                <td>Charset</td>
+                <td>Hace que sean que algunos caracteres sean legibles como los caracteres con tilde</td>
+            </tr>
+            <tr>
+                <td>Keyword</td>
+                <td>Se utiliza para definir las palabras clave que se quieren asociar a la página web</td>
+            </tr>
+            <tr>
+                <td>Autor</td>
+                <td>Se utiliza para indicar quién es el autor de la página web</td>
+            </tr>
+            <tr>
+                <td>Copyright</td>
+                <td>Se utiliza para indicar quién posee los derechos de la página web</td>
+            </tr>
+            <tfoot>
+                <tr>
+                    <td colspan="3">Para mas informacion y ejemplos visite: <a
+                            href="https://carontestudio.com/blog/tipos-de-meta-etiquetas-html/" target="_blank">Más
+                            informacion sobre las meta etiquetas</a></td>
+                </tr>
+            </tfoot>
+        </table>
+        <section>
+            <article>
+                <h2>Relación de Meta Etiquetas y SEO</h2>
+                <p>La relacion que tiene SEO con las meta etiquetas es que con estas el buscador podra identificar que tipo de contenido se muestra en la pagina para que se muestre de la manera correcta en la web</p>
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
