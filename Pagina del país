@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colombia</title>
+</head>
+
+<body>
+    <header>
+        <h1>La gran Colombia</h1>
+        <ul>
+            <li><a href="#Estado">Estado</a></li>
+            <li><a href="#Municipio">Municipio</a></li>
+            <li><a href="#Distrito">Distrito</a></li>
+        </ul>
+    </header>
+    <main>
+        <section>
+            <article>
+                <h2>Su principal moneda </h2>
+                <p>La moneda caracteristica de colombia es el peso colombiano</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Simbolo del peso colombiano </h2>
+                <p>El simbolo del peso colombiano es: &dollar; el cual es facilmente reconocido como el simbolo del
+                    dolar</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Capital </h2>
+                <p>La capital que tiene el territorio colombiano es la famosa Bogotá</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Regiones de Colombia </h2>
+                <p>Colombia en realidad no tiene una region sino tiene seis las cuales son: </p>
+                <ul>
+                    <li>Caribe</li>
+                    <li>Insular</li>
+                    <li>Pacífica</li>
+                    <li>Andina</li>
+                    <li>Orinoquia </li>
+                    <li>Amazonia</li>
+                </ul>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Poblacion</h2>
+                <p>La poblacion de colombia cuando se hizo esta pagina es de 51.87 millones de habitantes</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Zona horaria </h2>
+                <p>Su zona horaria es: GMT-5</p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h2>Bandera de colombia </h2>
+                <img src="./IMG/Bandera de colombia.jpg" width="250" height="100">
+            </article>
+        </section>
+    </main>
+    <section id="Estado">
+        <article>
+            <h2>Estado: </h2>
+            <img src="./IMG/Bolivar(Estado de colombia).jpg" width="250" height="100">
+            <p>Nombre: Bolívar</p>
+
+            <p>Su poblacion es de 2.26 millones de habitantes</p>
+            <p>Su superficie es de unos 25,978 km²</p>
+            <p>Su envergadura se deriva de sus arquitecturas patrimoniales, culturas africanas e indígenas, además de
+                sus festivales que promueven literatura, arte y gastronomía</p>
+            <p>Entre sus puntos de interes para turismo estan :</p>
+            <ul>
+                <li>Ciudad Amurallada</li>
+                <li>Castillo de San Felipe de Bajaras</li>
+                <li>Santuario de San Pedro Claver</li>
+            </ul>
+        </article>
+    </section>
+    <section id="Municipio">
+        <article>
+            <h2>Municipio: </h2>
+            <img src="https://www.distecnoweb.com/images/ciudades/facatativa.jpg"
+                width="250" height="100">
+            <p>Municipio: Facatativá</p>
+
+            <p>Su poblacion es de 141,762 de habitantes</p>
+            <p>Su superficie es de unos 158 km²</p>
+            <p>La ciudad cuenta con una mezcla de areas urbanas y rurales, con zonas dedicadas a la agricultura, especialmente al cultivo de flores</p>
+            <p>Entre sus puntos de interes para turismo estan :</p>
+            <ul>
+                <li>Plaza de Simon Bolivar</li>
+                <li>Parque Kyqa Mhuysqa</li>
+                <li>Parque Arqueológico Piedras del Tunjo</li>
+            </ul>
+
+        </article>
+    </section>
+    <section id="Distrito">
+        <article>
+            <h2>Distrito: </h2>
+            <img src="https://milenialtravel.com/wp-content/uploads/2023/06/Bogota-1536x864.jpg" width="250" height="100">
+            <p>Nombre: Bogotá</p>
+
+            <p>Su poblacion es de7.181 millones de habitantes</p>
+            <p>Su superficie es de unos 1,587 km²</p>
+            <p>La ciudad cuenta con una mezcla de áreas urbanas y rurales, con zonas dedicadas a la agricultura, especialmente al cultivo de flores</p>
+            <p>Entre sus puntos de interes para turismo estan :</p>
+            <ul>
+                <li>Museo del oro</li>
+                <li>Museo botero</li>
+                <li>Barrio La Candelaria</li>
+            </ul>
+        </article>
+    </section>
+
+    <section>
+        <article>
+     <h2>Por si quieres ver mas sitios turisticos: </h2>
+     <footer>
+        <a href="https://www.tripadvisor.es/Attractions-g2437760-Activities-Bolivar_Department.html" target="_blank">Más sitios para visitar en Bolívar</a>
+        <p></p>
+        <a href="https://www.tripadvisor.co/Attractions-g1222953-Activities-Facatativa_Cundinamarca_Department.html" target="_blank">Más sitios para visitar en Facatativá</a>
+        <p></p>
+        <a href="https://www.tripadvisor.es/Attractions-g294074-Activities-Bogota.html" target="_blank">Más sitios para visitar en Bogotá</a>
+     </footer>
+        </article>
+    </section>
